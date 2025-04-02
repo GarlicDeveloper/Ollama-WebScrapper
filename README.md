@@ -25,15 +25,18 @@ This project is a Python-based tool designed for efficient web content extractio
    ```
    git clone https://github.com/GarlicDeveloper/Ollama-WebScrapper.git
    ```
-2. Install dependencies:(Currently None)
-3. 
-  Just Install Ollama in your local machine and Run Below Line in powershell
+2. Install dependencies:
+   ```
+   https://ollama.com/
+   ```
+   
+3. Just Install Ollama in your local machine and Run Below Line in powershell
    ```
    ollama run llama3.2
    ```
 4. Run the script:
    ```
-   Just Shift+Enter all the lines in jupyter lab
+   Just Shift+Enter all the lines in Jupyter lab
    ```
 
 ## Contribution
