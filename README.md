@@ -1,7 +1,7 @@
 ### **DESCRIPTION**  
 
 
-```markdown
+
 # Web Scraping & AI Integration Tool
 
 ## Overview
@@ -39,4 +39,4 @@ Feel free to contribute by submitting issues or pull requests!
 
 ---
  🚀
-```  
+
